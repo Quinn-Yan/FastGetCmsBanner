@@ -1,0 +1,2 @@
+# FastGetCmsBanner
+一款廉价的批量web程序指纹识别小工具
