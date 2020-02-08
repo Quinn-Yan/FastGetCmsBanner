@@ -1,6 +1,7 @@
 ### 0x01 用法
 ```
 Use:
+   # tested on ubuntu 16.04 
    # ./FastGetCmsBanner.sh  目标子域列表文件 WhatCMSApiKey 保存探测结果的文件名[随意]
    # ./FastGetCmsBanner.sh TargetDomain.txt 2008cce12f319c5f2f3269438d50935ce4260d6 result.txt
 ```
